@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-refund-warrior",
+  "version": "1.0.0",
+  "description": "OpenClaw AI agent framework skill: openclaw-refund-warrior - Consumer protection automation.",
+  "main": "SKILL.md",
+  "author": "Alpha-Park OpenClaw Contributors",
+  "license": "MIT",
+  "keywords": ["openclaw", "claw", "agent", "skill", "consumer-rights", "automation", "framework"]
+}
